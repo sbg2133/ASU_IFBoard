@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:\Projects\256MHz_Amp_Filter\256MHz_Filter_layout\256MHz_Filter_layout.sch</source>
+    <date>1/19/2017 3:49:22 PM</date>
+    <tool>Eeschema 4.0.4-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>256MHz_Filter_layout.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>18pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>588138A6</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>27nH</value>
+      <footprint>Capacitors_SMD:C_1206</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>588138F1</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813A0C</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813A12</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813B94</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813B9A</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813BA6</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813BAC</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813D82</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813D88</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813D94</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813D9A</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813DA6</tstamp>
+    </comp>
+    <comp ref="L7">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813DAC</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813DB8</tstamp>
+    </comp>
+    <comp ref="L8">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813DBE</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>24pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813E90</tstamp>
+    </comp>
+    <comp ref="L9">
+      <value>56nH</value>
+      <footprint>Capacitors_SMD:C_1812</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813E96</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813EA2</tstamp>
+    </comp>
+    <comp ref="L10">
+      <value>47nH</value>
+      <footprint>Capacitors_SMD:C_1206</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58813EA8</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>SMA</value>
+      <footprint>SMA:SMA_Edge_Amphenol</footprint>
+      <libsource lib="sma" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>588142DF</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SMA</value>
+      <footprint>SMA:SMA_Edge_Amphenol</footprint>
+      <libsource lib="sma" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5881457B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="INDUCTOR">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="sma" part="SMA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="sma">
+      <uri>E:\Projects\256MHz_Amp_Filter\256MHz_Filter_layout\Schematics_Library\sma.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J2" pin="3"/>
+      <node ref="J2" pin="5"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="J1" pin="4"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="3" name="Net-(C10-Pad1)">
+      <node ref="J2" pin="1"/>
+      <node ref="L10" pin="2"/>
+      <node ref="C10" pin="1"/>
+    </net>
+    <net code="4" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1"/>
+      <node ref="L10" pin="1"/>
+      <node ref="L9" pin="2"/>
+    </net>
+    <net code="5" name="Net-(C8-Pad1)">
+      <node ref="L9" pin="1"/>
+      <node ref="L8" pin="2"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad1)">
+      <node ref="L4" pin="1"/>
+      <node ref="L3" pin="2"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="7" name="Net-(C4-Pad1)">
+      <node ref="L4" pin="2"/>
+      <node ref="L5" pin="1"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="8" name="Net-(C2-Pad1)">
+      <node ref="L3" pin="1"/>
+      <node ref="L2" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="9" name="Net-(C5-Pad1)">
+      <node ref="L5" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="L6" pin="1"/>
+    </net>
+    <net code="10" name="Net-(C1-Pad1)">
+      <node ref="L2" pin="1"/>
+      <node ref="L1" pin="2"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="11" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="L7" pin="2"/>
+      <node ref="L8" pin="1"/>
+    </net>
+    <net code="12" name="Net-(C6-Pad1)">
+      <node ref="L6" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="L7" pin="1"/>
+    </net>
+  </nets>
+</export>
