@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EricWeeksFootprints)(type KiCad)(uri J:/basebandAmp_02022018/EricWeeksFootprints.pretty)(options "")(descr ""))
+)

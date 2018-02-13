@@ -1,0 +1,15 @@
+(module MountingHole_2.5mm_Pad (layer F.Cu) (tedit 5A7E1BA8)
+  (descr "Mounting Hole 2.5mm")
+  (tags "mounting hole 2.5mm")
+  (attr virtual)
+  (fp_text reference "" (at 0 -3.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MountingHole_2.5mm_Pad (at 0 3.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "" (at 0.3 0) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 3.048 3.048) (drill 2.54) (layers *.Cu *.Mask))
+)

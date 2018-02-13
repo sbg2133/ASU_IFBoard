@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name WirePads)(type KiCad)(uri D:/basebandAmp_01302018/Wire_Pads.pretty)(options "")(descr ""))
+  (lib (name CrumpPrints)(type Github)(uri https://github.com/tylercrumpton/CrumpPrints.pretty)(options "")(descr ""))
+  (lib (name Local)(type KiCad)(uri "C:/Users/Eric Weeks/Desktop/ASU_IFBoard-master/amplifiers/basebandAmp/FootprintLibrary.pretty")(options "")(descr ""))
+  (lib (name aaa)(type Github)(uri https://github.com/weekscorp/KiCadLibrary/tree/master/FootprintLibrary.pretty)(options "")(descr ""))
+  (lib (name EricWeeksFootprints)(type KiCad)(uri E:/basebandAmp_02022018/EricWeeksFootprints.pretty)(options "")(descr ""))
+)
